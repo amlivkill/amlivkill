@@ -1,18 +1,130 @@
-# 💫 About Me:
-🏔️ Founder & Developer — CHANGE TechLab<br>I build civic technology for rural communities in Uttarakhand, India — where geography is a challenge and technology can be a bridge.<br>Through CHANGE TechLab, I design and deploy AI-powered tools, GIS mapping platforms, and multilingual applications that directly support government programs flagship projects  across all 13 districts of Uttarakhand.<br>My work sits at the intersection of geospatial intelligence, large language models, and ground-level public service delivery — built with free and open infrastructure so rural deployments remain sustainable.<br><br>🗺️ Building GIS tools for Uttarakhand's Pahadi communities<br>🤖 Developing AI applications in Hindi for low-literacy users<br>🏛️ Supporting government initiatives with civic tech<br>🌱 Committed to open-source, free APIs, and local language access<br><br><br>"Pahad ke log, pahad ki boli, pahad ka naksha."
+<div align="center">
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Anupam+Rayal;Founder+of+CHANGE+TechLab;Building+Rural+Intelligence+Infrastructure;GIS+%7C+AI+%7C+Climate+Technology" />
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=amlivkill&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=amlivkill&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=amlivkill&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# 🛰️ CHANGE TechLab
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### Building Rural Intelligence Infrastructure for the Himalayas
+
+![Profile Views](https://komarev.com/ghpvc/?username=changetechlab&label=Profile+Views&color=0e75b6&style=flat)
+![GitHub followers](https://img.shields.io/github/followers/changetechlab?style=social)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=amlivkill&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 👋 About Me
+
+I'm **Anupam Rayal**, Founder of **CHANGE TechLab**.
+
+I build practical technology for agriculture, climate resilience, geospatial intelligence and rural development.
+
+My goal is simple:
+
+> **Build technology that works for villages, not just cities.**
+
+---
+
+## 🌱 Focus Areas
+
+- 🛰️ GIS & Remote Sensing
+- 🤖 AI Agents & Automation
+- 🌾 Agriculture Technology
+- 🌍 Climate Finance & Carbon MRV
+- 📊 Business Planning
+- 📱 Mobile-first Rural Applications
+- ☁️ Government Digital Platforms
+- 🔓 Open Source Development
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🌾 AgriMonitor | Agriculture Monitoring Platform |
+| 🌍 CarbonOS | Carbon MRV Platform |
+| 🤖 Himalayan Prahari | AI Assistant |
+| 📊 Business Planner AI | DPR & Planning |
+| 🛰️ GIS Toolkit | Mapping & Spatial Analysis |
+
+---
+
+# 💻 Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)
+
+### Backend & Cloud
+
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud)
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=changetechlab&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=changetechlab&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=changetechlab&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🤝 Collaboration
+
+I'm always interested in collaborating on projects related to:
+
+- Rural Intelligence
+- GIS & Remote Sensing
+- Agriculture Technology
+- Climate Finance
+- Open Source
+- AI for Public Good
+
+---
+
+# 📫 Connect
+
+📍 Uttarakhand, India
+
+🌐 https://changetechlab.github.io/
+
+📧 changetechlab@outlook.com
+
+---
+
+<div align="center">
+
+## 🌄 Vision
+
+**Technology should reduce the distance between governments and villages.**
+
+### CHANGE TechLab
+
+**Rural Intelligence • GIS • Climate Finance • Business Planning**
+
+⭐ Thanks for visiting!
+
+</div>
